@@ -1,4 +1,4 @@
-let myAge = 31;
+let myAge = 20;
 let earlyYears = 2;
 earlyYears = earlyYears * 10.5;
 
