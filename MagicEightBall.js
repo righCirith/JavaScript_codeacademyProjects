@@ -1,4 +1,4 @@
-// Project Magic Eight Ball (Module = Conditinals)
+// Project Magic Eight Ball (Module = Conditionals)
 
 let userName = 'ooes';
 userName ? console.log(`Hello ${userName}!`) : (console.log('Hello'));
